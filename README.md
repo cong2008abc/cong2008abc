@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cong2008abc
-- 👀 I’m interested in C/C++, camera, ios
+- 👀 I’m interested in C/C++, opencv, delphi, python, camera, ios
 - 🌱 I’m currently learning ios
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
